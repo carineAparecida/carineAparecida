@@ -1,6 +1,7 @@
 ## Olá, sou Carine. ☺️
 Bacharela em Sistemas de Informação<br/>
-Pós Graduanda em Engenharia de Software
+Pós Graduanda em Engenharia de Software</br>
+Pós Graduanda em Administração de Banco de Dados
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
